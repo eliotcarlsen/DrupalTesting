@@ -120,7 +120,7 @@ class SimpleTestExampleTestCase extends DrupalWebTestCase {
     // @todo: Add this line back once the testbot variable is available.
     // https://www.drupal.org/node/2565181
     // return env('DRUPALCI');
-    return TRUE;
+    return FALSE;
   }
 }
 
